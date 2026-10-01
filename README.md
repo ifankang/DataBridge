@@ -1,7 +1,7 @@
 # ⚡ Databridge
 [![DEMO APP]](https://databridgeapp.blogspot.com) 
 Admin: admin@databridge.com / admin2026123
-> **Ubah Google Spreadsheet Menjadi Sistem Operasional Bisnis Kelas Enterprise — Hanya Rp 50.000 / Bulan, Cepat (5ms), & Siap Pakai di Smartphone.**
+> **Ubah Google Spreadsheet Menjadi Sistem Operasional Bisnis Kelas Enterprise — Hanya Rp 50.000 / Bulan, & Bisa Pakai di Smartphone.**
 
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
