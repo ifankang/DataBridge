@@ -1,6 +1,8 @@
 # ⚡ Databridge
 [![DEMO APP]](https://databridgeapp.blogspot.com) 
 Admin: admin@databridge.com / admin2026123
+
+[[sheets and script]](https://docs.google.com/spreadsheets/d/1hgMjaZYBy36VWLdw0ZLeupD0-9lFhg8G0h2mp_ylJXg/edit?usp=sharing)
 > **Ubah Google Spreadsheet Menjadi Sistem Operasional Bisnis Kelas Enterprise — Hanya Rp 50.000 / Bulan, & Bisa Pakai di Smartphone.**
 
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
